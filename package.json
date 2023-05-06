@@ -9,6 +9,6 @@
   "author": "Ashwini Warhade",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^3.1.5"
+    "cypress": "^12.11.0"
   }
 }
